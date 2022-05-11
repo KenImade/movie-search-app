@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.fed48e28.css",
-    "main.js": "/static/js/main.9709abe6.js",
-    "static/media/not-found.svg": "/static/media/not-found.810627350e9ed2c1d963d2fe1dfac495.svg",
-    "index.html": "/index.html",
-    "main.fed48e28.css.map": "/static/css/main.fed48e28.css.map",
-    "main.9709abe6.js.map": "/static/js/main.9709abe6.js.map"
+    "main.css": "/KenImade/movie-search-app/static/css/main.fed48e28.css",
+    "main.js": "/KenImade/movie-search-app/static/js/main.367b8b05.js",
+    "static/media/not-found.svg": "/KenImade/movie-search-app/static/media/not-found.810627350e9ed2c1d963d2fe1dfac495.svg",
+    "index.html": "/KenImade/movie-search-app/index.html",
+    "main.fed48e28.css.map": "/KenImade/movie-search-app/static/css/main.fed48e28.css.map",
+    "main.367b8b05.js.map": "/KenImade/movie-search-app/static/js/main.367b8b05.js.map"
   },
   "entrypoints": [
     "static/css/main.fed48e28.css",
-    "static/js/main.9709abe6.js"
+    "static/js/main.367b8b05.js"
   ]
 }
