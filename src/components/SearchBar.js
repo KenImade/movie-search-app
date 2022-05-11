@@ -8,8 +8,6 @@ function SearchBar() {
     const [movies, setMovies] = useState([]);
     const [showErrorPage, setShowErrorPage] = useState(false)
 
-    let searchTerm = "";
-
     const searchMovies = async (e) => {
         e.preventDefault()
 
@@ -46,7 +44,7 @@ function SearchBar() {
             </form>
             <div className="card-list">
                 {movies.filter(movie => movie.poster_path).map(movie => (<MovieCard movie={movie} key={movie.id}/>))}
-                { showErrorPage && <ErrorPage title={searchTerm}/>}
+                { showErrorPage && <ErrorPage />}
             </div>
         </>
     )

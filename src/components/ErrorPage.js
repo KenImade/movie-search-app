@@ -1,6 +1,6 @@
 import errorLogo from "./../assets/not-found.svg";
 
-function ErrorPage({title}) {
+function ErrorPage() {
 
     return (
         <div className="error">
